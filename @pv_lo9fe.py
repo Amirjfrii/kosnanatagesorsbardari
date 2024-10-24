@@ -1566,4 +1566,4 @@ async def ReloadsFN(client , message):
 print('bot is runed')
 scheduler.start()
 bot.run()
-app.send_message("me", f"سلام ممنون که از ما حمایت کردی و سلف پیشرفته ما رو خریدی\nخوب برای اوردن پنل سلف بنویس `سلف`\n<a href=t.me/pv_lo9fe>سوال با پیشنهاد ها</a>\nخوب حرفی نمیمونه دیگه پس لذت ببرید\n<a href=t.me/cioself>cio self</a>")
+bot.send_message("me", f"سلام ممنون که از ما حمایت کردی و سلف پیشرفته ما رو خریدی\nخوب برای اوردن پنل سلف بنویس `سلف`\n<a href=t.me/pv_lo9fe>سوال با پیشنهاد ها</a>\nخوب حرفی نمیمونه دیگه پس لذت ببرید\n<a href=t.me/cioself>cio self</a>")
